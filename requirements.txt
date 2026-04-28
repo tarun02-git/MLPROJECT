@@ -6,5 +6,6 @@ scikit-learn
 catboost
 xgboost
 dill
+flask
 # -e .
 # Comment down this -e . when installing requirement frequently and use it when you want to update the setup files once for all
